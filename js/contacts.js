@@ -78,6 +78,4 @@
     searchForm.addEventListener('mouseover',addr.addHoverClass,false);
     searchForm.addEventListener('mouseout',addr.removeHoverClass,false);
     searchForm.addEventListener('submit',addr.search,false);
-
-
 })();
